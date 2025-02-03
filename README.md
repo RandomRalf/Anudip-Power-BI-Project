@@ -81,3 +81,43 @@ Country Count: Lists countries like the United States, France, Italy, Mexico, Th
   - $900: 2 (4.08%)
 
 `Rate in $ by Rooms:` Shows varying rates with room counts.
+## Setup Instructions
+### Prerequisites
+- Power BI Desktop installed on your computer.
+
+- Basic understanding of Power BI.
+
+#### Open the Power BI File:
+
+- Launch Power BI Desktop.
+
+- Open the Mohamed Qais Sahib_PowerBi Project.pbix file located in the project directory.
+
+#### Connect to the Data Source:
+
+- Ensure that the dataset (Worlds Best 50 Hotels.csv) is placed in the same directory as the Power BI file.
+
+- If needed, update the data source path in Power BI to point to the correct location of the dataset.
+
+#### Refresh the Data:
+
+- Go to the Home tab in Power BI.
+
+- Click on Refresh to load the latest data into the dashboard.
+
+#### Explore the Dashboard:
+
+- Use the interactive elements like dropdown menus and sliders to filter and analyze the data.
+
+- Explore various visualizations to gain insights into the top 50 hotels.
+
+#### Publish the Report (Optional):
+
+- If you want to share the report online, you can publish it to the Power BI service.
+
+- Go to the Home tab in Power BI.
+
+- Click on Publish and follow the prompts to publish the report to your Power BI workspace.
+
+## Conclusion
+This Power BI project provides a comprehensive analysis of the top 50 hotels in the world for 2024. Feel free to explore the dashboard and gain valuable insights into the world of luxury hospitality.
